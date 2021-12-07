@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arav-dhoot
 - 👀 I’m interested in machine learning, back-end development, and app development
-- 🌱 I'm currently coding in Python and Java. I also know HTML, CSS, and Bootstrap
+- 🌱 I'm currently coding in Python, Dart, and Java. I also know HTML, CSS, and Bootstrap
 - 📫 I'm reachable through email: aravdhoot@gmail.com or Instagram: arav_dhoot
 
 <!---
