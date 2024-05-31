@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @arav-dhoot
+- 👋 Hi, I’m @arav-dhoot, an incoming freshman at Columbia University
 - 👀 I’m interested in machine learning and deep-learning, specifically, generative AI and computer vision
-- 🌱 I'm currently coding in Python, Dart, and Java. I also know HTML, CSS, and Bootstrap
-- 📫 I'm reachable through email: aravdhoot@gmail.com 
+- 📫 I'm reachable through email: arav.dhoot@columbia.com 
 
 <!---
 arav-dhoot/arav-dhoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
