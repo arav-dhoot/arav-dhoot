@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @arav-dhoot, a freshman at Columbia University 🦁 studying Computer Science
-- 📫 I'm reachable through email: arav.dhoot@columbia.com || aravdhoot@gmail.com
+- 👋 Hi, I’m @arav-dhoot, a rising sophomore at Columbia University 🦁 studying Computer Science
+- 📫 I'm reachable through email: arav.dhoot@columbia.edu || aravdhoot@gmail.com
 - 🧐 I'm currently doing research at the Computational Design Lab (with Prof. Lydia Chilton) and Software Systems Lab (with Prof. Junfeng Yang)
 - 🤙 Call me on π[89270768459:89270768469]
 
